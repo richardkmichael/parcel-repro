@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "devDependencies": {
     "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "create-react-app": "^4.0.3"
   }
 }
