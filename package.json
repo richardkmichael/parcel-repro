@@ -6,5 +6,8 @@
   },
   "dependencies": {
     "create-react-app": "^4.0.3"
-  }
+  },
+  "workspaces": [
+    "packages/parcel-transformer-public-url"
+  ]
 }

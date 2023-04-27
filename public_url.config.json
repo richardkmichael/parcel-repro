@@ -1,0 +1,7 @@
+{
+  "publicUrl": ".",
+  "reactAppQmodLoader": "qmod.js",
+  "reactAppGmapsKey": "12345",
+
+  "PUBLIC_URL": "bar",
+}

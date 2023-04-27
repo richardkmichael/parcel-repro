@@ -1,0 +1,11 @@
+{
+  "name": "parcel-transformer-public-url",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "@parcel/plugin": "^2.8.2"
+  }
+}
